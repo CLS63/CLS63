@@ -16,10 +16,7 @@
 </div>
 
 <div id="heythere" align="center">
-  <h1>
-  Приветик
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 </div>
 
 <div align="center">
