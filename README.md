@@ -16,7 +16,7 @@
 </div>
 
 <div id="heythere" align="center">
- <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+studen">
+ <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello!+<br>I+am+a+Computer+science+student">
 </div>
 
 <div align="center">
